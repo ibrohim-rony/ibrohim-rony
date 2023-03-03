@@ -1,4 +1,5 @@
 function putar(){
+	// test
 	const a = ['kertas', 'batu', 'gunting']; let i = 0;
 	const waktuMulai = new Date().getTime() 
 	info.innerHTML = "?";
